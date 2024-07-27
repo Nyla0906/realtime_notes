@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520534725590",
+    "project_id": "realtimedatanotes",
+    "storage_bucket": "realtimedatanotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520534725590:android:b6442f8c15b77cd3be8a77",
+        "android_client_info": {
+          "package_name": "com.example.realtime_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcfi0u2mik9LdqDrzOcfAS8KhCPTH2xTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
